@@ -1,3 +1,10 @@
+<!-- scope -->
+> [!WARNING]
+> **Recherche / automatisation â€” contraire aux CGU de Discord.**
+>
+> Selfbot d'exemple servant Ã  Ã©tudier l'API Discord. Les selfbots sont interdits par Discord et peuvent entraÃ®ner la suspension du compte.
+>
+> PubliÃ© Ã  des fins pÃ©dagogiques : ne pas dÃ©ployer pour du spam ou du bump Ã  grande Ã©chelle.
 # Discord Bumper Bot
 
 This project is a selfbot designed to automatically bump a Discord server at regular intervals using the Discord API.
