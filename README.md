@@ -1,10 +1,10 @@
 <!-- scope -->
 > [!WARNING]
-> **Recherche / automatisation — contraire aux CGU de Discord.**
+> **Research / automation — violates Discord's Terms of Service.**
 >
-> Selfbot d'exemple servant à étudier l'API Discord. Les selfbots sont interdits par Discord et peuvent entraîner la suspension du compte.
+> Example selfbot for studying the Discord API. Selfbots are prohibited by Discord and can lead to account suspension.
 >
-> Publié à des fins pédagogiques : ne pas déployer pour du spam ou du bump à grande échelle.
+> Published for educational purposes: do not deploy for spam or large-scale bumping.
 
 # Discord Bumper Bot
 
